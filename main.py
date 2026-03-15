@@ -1,1 +1,1 @@
-from dashboard.app import *
+from dashboard.app
