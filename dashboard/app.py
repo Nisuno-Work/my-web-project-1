@@ -64,7 +64,7 @@ height:45px;
 # HEADER
 # ---------------------------------------
 
-logo = "logo.png"
+logo = "../logo.png"
 
 col_logo, col_title = st.columns([1,6])
 
